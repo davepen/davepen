@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm Dave
+
+I’m a software engineer currently working at PayPal. I am the technical lead for PayPal UI iOS. We build a component library, starting from a design system, that downstream feature teams use to build their flows. 
+
+- Swift, Objective-C, Accessibility, UIKit, SwiftUI
+- Currently learning Rust
+- (Very) Long time Emacs user
 
 <!--
 **davepen/davepen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
