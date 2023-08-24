@@ -1,6 +1,6 @@
 ### Hi I'm Dave
 
-I’m a software engineer currently working at BlueJeans (Verizon).
+I’m a software engineer currently working at BlueJeans (Verizon) on the BlueJeans macOS client application
 
 - Swift, Objective-C, Accessibility, UIKit, SwiftUI
 - Learning Rust
