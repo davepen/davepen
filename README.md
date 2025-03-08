@@ -1,12 +1,19 @@
 ### Hi I'm Dave
 
-I’m a software engineer currently working at BlueJeans (Verizon) on the BlueJeans macOS client application
+I’m a software engineer currently working at Kohler Ventures leading mobile applications
 
-- Swift, Objective-C, Accessibility, UIKit, SwiftUI
+Past:
+* BlueJeans (Verizon) macOS client application (1.5 years)
+* PayPal's design system with a focus on iOS code generation and components (4 years)
+* TiVo set top box (4 yrs) and TiVo's iOS application (4.5 years)
+* Several small startup organizations (9 years)
+* Cisco Systems (2 years)
+* Motorola (4 years)
+
+Focus:
+- Swift, SwiftUI, Objective-C, Accessibility, UIKit
 - Learning Rust
 - (Very) Long time Emacs user
-
-
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
